@@ -1,3 +1,3 @@
-# elb23.freshservice.com
+# helpdesk.tidal.com
 
 Subdomain takeover by SIJOJOHNSON
